@@ -1,0 +1,27 @@
+* pull_request_steps.txt
+
+$ cd 'OneDrive - Capitec Bank Ltd'
+
+$ cd Desktop
+
+$ cd dojo
+
+$ cd forking
+
+$ git clone https://github.com/BervelyR/git_demo.git
+
+$ cd git_demo
+
+
+$ git commit -m "Update demo_index.htlm with changes made"
+
+$ git status
+
+$ git add .
+
+
+$ git push
+
+$ echo "* pull_request_steps.txt" >> .git_demo.git
+
+
